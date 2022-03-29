@@ -1,6 +1,6 @@
 fun main(){
     School()
-    var x=getremainder(20,3)
+    var x=getremainder(20,4)
     println(x)
     var a=nameandAge("Esther",20)
     println(a)
